@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/carlo/Escritorio/OpenTK/Common/Common.csproj": {}
+  },
+  "projects": {
+    "/home/carlo/Escritorio/OpenTK/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/carlo/Escritorio/OpenTK/Common/Common.csproj",
+        "projectName": "Carlo.Common",
+        "projectPath": "/home/carlo/Escritorio/OpenTK/Common/Common.csproj",
+        "packagesPath": "/home/carlo/.nuget/packages/",
+        "outputPath": "/home/carlo/Escritorio/OpenTK/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/carlo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "OpenTK": {
+              "target": "Package",
+              "version": "[4.7.4, )"
+            },
+            "StbImageSharp": {
+              "target": "Package",
+              "version": "[2.27.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.108/sdk/6.0.108/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
