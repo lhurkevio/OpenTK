@@ -11,7 +11,7 @@ namespace Carlo
             var nativeWindowSettings = new NativeWindowSettings()
             {
                 Size = new Vector2i(800,600),
-                Title = "hola Triangulo - Carlo Guzman Lopez",
+                Title = "hola Triangulo - 3",
                 Flags = ContextFlags.ForwardCompatible,
             };
             using (var window = new Window(GameWindowSettings.Default, nativeWindowSettings))
