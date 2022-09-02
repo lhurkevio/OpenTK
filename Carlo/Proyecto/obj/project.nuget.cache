@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "140sW/xesNBiUgK+++BdopsQ3C1uaKJ7b8cHANS4mT5lt1T76LXzMkDa+r02vLGdYNw/R91EEaD7KdhwfIeZ6w==",
+  "success": true,
+  "projectFilePath": "/home/carlo/Escritorio/OpenTK/Carlo/Proyecto/Carlo.csproj",
+  "expectedPackageFiles": [
+    "/home/carlo/.nuget/packages/opentk/4.7.4/opentk.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.compute/4.7.4/opentk.compute.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.core/4.7.4/opentk.core.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.graphics/4.7.4/opentk.graphics.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.input/4.7.4/opentk.input.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.mathematics/4.7.4/opentk.mathematics.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.openal/4.7.4/opentk.openal.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.redist.glfw/3.3.7.27/opentk.redist.glfw.3.3.7.27.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.windowing.common/4.7.4/opentk.windowing.common.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.windowing.desktop/4.7.4/opentk.windowing.desktop.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/opentk.windowing.graphicslibraryframework/4.7.4/opentk.windowing.graphicslibraryframework.4.7.4.nupkg.sha512",
+    "/home/carlo/.nuget/packages/stbimagesharp/2.27.11/stbimagesharp.2.27.11.nupkg.sha512",
+    "/home/carlo/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Carlo</RootNamespace>
+    <AssemblyName>Carlo</AssemblyName>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Shaders/**" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+  
+  
+  <ItemGroup>
+    <PackageReference Include="OpenTK" Version="4.7.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Common\Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Shader\shader.frag">
+      <CopyToOutputDirectoy>PreserveNewest</CopyToOutputDirectoy>
+    </None>
+    <None Update="Shader\shader.vert">
+      <CopyToOutputDirectoy>PreserveNewest</CopyToOutputDirectoy>
+    </None>
+  </ItemGroup>
+
+</Project>
